@@ -1,0 +1,21 @@
+container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.class thinTex {
+    font-weight: lighter;
+}
+
+.boldText {
+    font-weight: bold;
+}
+
+.card1 {}
+
+.card2 {}
+
+.card3 {}
+
+.card4 {}
